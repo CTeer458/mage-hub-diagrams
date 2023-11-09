@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T21:29:23.574Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9zOsmPXZlL6QXZdaFAQW" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T21:57:34.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XYfqnrtVQFmOMveBlgaT" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
-    <mxGraphModel dx="6234" dy="2390" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6299" dy="2432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2772,506 +2772,704 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-835" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="608" y="-241.87" width="41" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2226.25" y="2338" width="1208" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4a3341;labelBackgroundColor=none;strokeColor=#89647c;gradientColor=#ae6284;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4a3341;labelBackgroundColor=none;strokeColor=#89647c;gradientColor=#ae6284;" parent="1" vertex="1">
           <mxGeometry x="-2228.25" y="2379.75" width="1210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2306.25" y="2141.25" width="1421" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#ffffff;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-2220" y="2141.25" width="789" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_magic_lesserinvisibilty.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-2306.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
-          <mxGeometry x="-2266.25" y="2141.25" width="42" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg;" parent="1" vertex="1">
           <mxGeometry x="-2224.25" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-2104.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_arcaneorb.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-2144.25" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
-          <mxGeometry x="-2024.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1994.5" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_arcaneorb.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-2064.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1707.75" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1464.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanesurge.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1643.25" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1184.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanebarrage.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1527.01" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1904.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1467.37" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_timewarp.jpg;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1984.25" y="2181.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bossmagistrix_timewarp2.jpg;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1984.25" y="2221.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/trade_alchemy_dpotion_b20.jpg;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1984.25" y="2261.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanesurge.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1064.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1824.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanebarrage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-944.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-926.25" y="2184" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1664.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1864.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1584.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1504.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1784.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1424.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1344.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1624.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1264.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1544.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1104.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
-          <mxGeometry x="-1144.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" parent="1" vertex="1">
           <mxGeometry x="-2204.25" y="2338" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-2123.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1304.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1844" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1224.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1567.5" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-2043.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-1024.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-38" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1963.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1883.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_enchantarmor.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_enchantarmor.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1077.25" y="2379.75" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1843.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1384.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1918" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" parent="1" vertex="1">
           <mxGeometry x="-2164.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_sapphire_02.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1045.25" y="2184" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_sapphire_02.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-1619.62" y="2181.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-45" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-984.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-48" value="1" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#CC6600;fontStyle=1;fontSize=29;spacing=0;spacingBottom=5;" parent="1" vertex="1">
+          <mxGeometry x="-1843.25" y="2068.75" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1400.25" y="2095" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-57" value="&lt;b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; color=&quot;#b36eb8&quot; style=&quot;font-size: 32px; --darkreader-inline-color: #b577ba;&quot;&gt;Arcane Burn&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2248.75" y="1986" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-47" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
-          <mxGeometry x="-1374.25" y="2058" width="35" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1320.25" y="2095" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-49" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
-          <mxGeometry x="-1294.25" y="2058" width="35" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1240.25" y="2095" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
-          <mxGeometry x="-1214.25" y="2058" width="35" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1085.25" y="2101.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-53" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
-          <mxGeometry x="-1059.25" y="2064.25" width="35" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1005.25" y="2101.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-55" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
-          <mxGeometry x="-979.25" y="2064.25" width="35" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-56" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Radiant Spark Vulnerability Stacks&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1297.25" y="2023.5" width="249" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-57" value="&lt;b&gt;&lt;font color=&quot;#b36eb8&quot; style=&quot;font-size: 32px;&quot;&gt;Arcane Opener&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2267.75" y="1986" width="247" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1048.25" y="2041" as="sourcePoint" />
-            <mxPoint x="-939.24" y="2095" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-939.24" y="2041" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1302.25" y="2041" as="sourcePoint" />
-            <mxPoint x="-1412.75" y="2095" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1412.75" y="2041" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prepull&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2176.75" y="2084" width="65" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-61" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.01;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2176.75" y="2101.001" as="sourcePoint" />
-            <mxPoint x="-2309.25" y="2126" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-2309.25" y="2101" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-62" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2109.0600000000004" y="2103.229" as="sourcePoint" />
-            <mxPoint x="-1976.25" y="2123" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1976.25" y="2103" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-63" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-2083.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-2003.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
-          <mxGeometry x="-904.25" y="2141.25" width="19" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1338.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1803.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1298.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1138.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1617.75" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1378.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1763.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1098.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-74" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1577.75" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1258.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1497.75" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-77" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-77" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1218.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1458.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-1537.75" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-80" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1058.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1723.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_socererking_arcanereplication.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_socererking_arcanereplication.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1714.746666666666" y="2297.0033333333336" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
           <mxGeometry x="-2228.25" y="2337" width="26" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" parent="1" vertex="1">
           <mxGeometry x="-2250.25" y="2379.75" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1984.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" parent="1" vertex="1">
+          <mxGeometry x="-2067.75" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
-          <mxGeometry x="-1944.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" parent="1" vertex="1">
           <mxGeometry x="-1923.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" parent="1" vertex="1">
           <mxGeometry x="-1418.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-95" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" parent="1" vertex="1">
           <mxGeometry x="-1683.25" y="2337" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" parent="1" vertex="1">
           <mxGeometry x="-1178.25" y="2337" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-97" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-97" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2154.25" y="2345.75" as="sourcePoint" />
             <mxPoint x="-2154.25" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-98" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-98" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2144.35" y="2345.75" as="sourcePoint" />
             <mxPoint x="-2144.35" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-99" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-99" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2135.25" y="2345.75" as="sourcePoint" />
             <mxPoint x="-2135.25" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-100" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-100" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1912.85" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1912.85" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-101" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-101" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1902.9499999999998" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1902.9499999999998" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-102" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-102" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1893.85" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1893.85" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-103" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-103" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1407.85" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1407.85" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-104" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-104" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1397.9499999999998" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1397.9499999999998" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-105" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-105" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1388.85" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1388.85" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-106" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-106" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1167.83" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1167.83" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-107" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1157.9299999999998" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1157.9299999999998" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-108" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-108" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1148.83" y="2345.75" as="sourcePoint" />
             <mxPoint x="-1148.83" y="2337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-109" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-109" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1674.3799999999997" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1674.3799999999997" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1664.4799999999996" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1664.4799999999996" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-111" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-111" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1655.3799999999997" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1655.3799999999997" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-112" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-112" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1644.8199999999997" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1644.8199999999997" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-113" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-113" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1634.9199999999996" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1634.9199999999996" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-114" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-114" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1625.8199999999997" y="2346.25" as="sourcePoint" />
             <mxPoint x="-1625.8199999999997" y="2337.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-115" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
-          <mxGeometry x="-2144.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-116" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
-          <mxGeometry x="-2184.25" y="2141.25" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-117" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2174.25" y="2150" as="sourcePoint" />
-            <mxPoint x="-2174.25" y="2141.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-118" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2164.35" y="2150" as="sourcePoint" />
-            <mxPoint x="-2164.35" y="2141.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-119" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2155.25" y="2150" as="sourcePoint" />
-            <mxPoint x="-2155.25" y="2141.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1830.25" y="2240" as="sourcePoint" />
-            <mxPoint x="-1880.25" y="2205" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1880.75" y="2240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-121" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1541.2479999999996" y="2241.337" as="sourcePoint" />
-            <mxPoint x="-1499.15" y="2204" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1499.15" y="2241" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-122" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Burn Mana Until 225k or after Siphon &amp;lt;15s&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1833.75" y="2226.75" width="299" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
           <mxGeometry x="-990.25" y="2261.5" width="13" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" parent="1" vertex="1">
           <mxGeometry x="-990.25" y="2318.5" width="13" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-125" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" parent="1" vertex="1">
           <mxGeometry x="-990.25" y="2347.25" width="13" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GCD&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GCD&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-966.25" y="2254" width="49" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-127" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cast Time&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-127" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cast Time&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-966.25" y="2284" width="85" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Clip&amp;nbsp;Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Clip&amp;nbsp;Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-968.25" y="2311" width="104" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-129" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Fully Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-129" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Fully Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-968.25" y="2339.75" width="110" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+        <mxCell id="cSVjWcMx2M_-HpkgwxTS-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
           <mxGeometry x="-990.25" y="2291.5" width="13" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-131" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
-          <mxGeometry x="-1704.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-5" value="0" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#CC6600;fontStyle=1;fontSize=29;spacing=0;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="-1916.75" y="2068.75" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-132" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-6" value="2" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#CC6600;fontStyle=1;fontSize=29;spacing=0;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="-1774.5" y="2068.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1774.5" y="2141.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-8" value="3" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#CC6600;fontStyle=1;fontSize=29;spacing=0;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="-1644.5" y="2068.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-9" value="4" style="shape=image;verticalLabelPosition=middle;labelBackgroundColor=none;verticalAlign=middle;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#CC6600;fontStyle=1;fontSize=29;spacing=0;spacingBottom=5;" vertex="1" parent="1">
+          <mxGeometry x="-1551.5" y="2068.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2226.25" y="3111" width="1208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4a3341;labelBackgroundColor=none;strokeColor=#89647c;gradientColor=#ae6284;" vertex="1" parent="1">
+          <mxGeometry x="-2228.25" y="3152.75" width="1210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-2306.25" y="2914.25" width="1421" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_magic_lesserinvisibilty.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2306.25" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-2266.25" y="2914.25" width="42" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2224.25" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-2104.25" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_arcaneorb.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2144.25" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1984" y="2916.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1700.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanesurge.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1580.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanebarrage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1460.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1442.5" y="2961.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1940.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1860.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1780.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1620.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-1660.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-44" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2204.25" y="3111" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-2123.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1820.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1740.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-2043.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1540.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1963.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1883.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_enchantarmor.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1077.25" y="3152.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-53" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1843.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1900.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+          <mxGeometry x="-2164.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_sapphire_02.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1561.5" y="2961.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1500.5" y="2918.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1916.5" y="2872.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-59" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;0&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
+          <mxGeometry x="-1890.5" y="2835.5" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1836.5" y="2872.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-61" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
+          <mxGeometry x="-1810.5" y="2835.5" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-62" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1756.5" y="2872.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-63" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
+          <mxGeometry x="-1730.5" y="2835.5" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1601.5" y="2878.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-65" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;3&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
+          <mxGeometry x="-1575.5" y="2841.75" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1521.5" y="2878.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-67" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px;&quot;&gt;4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#007900;" vertex="1" parent="1">
+          <mxGeometry x="-1495.5" y="2841.75" width="35" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Radiant Spark Vulnerability Stacks&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1813.5" y="2801" width="249" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-69" value="&lt;b&gt;&lt;font color=&quot;#b36eb8&quot; style=&quot;font-size: 32px;&quot;&gt;Arcane Burn&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2248.75" y="2759" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1693.85" y="2150" as="sourcePoint" />
-            <mxPoint x="-1693.85" y="2141.25" as="targetPoint" />
+            <mxPoint x="-1564.5" y="2818.5" as="sourcePoint" />
+            <mxPoint x="-1455.49" y="2872.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1455.49" y="2818.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-133" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1683.9499999999998" y="2150" as="sourcePoint" />
-            <mxPoint x="-1683.9499999999998" y="2141.25" as="targetPoint" />
+            <mxPoint x="-1818.5" y="2818.5" as="sourcePoint" />
+            <mxPoint x="-1929" y="2872.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1929" y="2818.5" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-134" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prepull&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2176.75" y="2857" width="65" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-73" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.01;exitY=0.379;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1674.85" y="2150" as="sourcePoint" />
-            <mxPoint x="-1674.85" y="2141.25" as="targetPoint" />
+            <mxPoint x="-2176.75" y="2874.001" as="sourcePoint" />
+            <mxPoint x="-2309.25" y="2899" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2309.25" y="2874" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-135" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1744.25" y="2141.25" width="40" height="40" as="geometry" />
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-74" value="" style="endArrow=none;html=1;rounded=0;exitX=0.998;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2109.0600000000004" y="2876.229" as="sourcePoint" />
+            <mxPoint x="-1976.25" y="2896" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1976.25" y="2876" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-136" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_wand_1h_firelandsraid_d_01.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1414.1242105263163" y="2235.5047368421056" width="40" height="40" as="geometry" />
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2083.25" y="3110" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-137" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Belor&#39;relos after Siphon Storm&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1354.25" y="2241" width="220" height="29" as="geometry" />
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-76" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2003.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-1420.5" y="2918.75" width="19" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1338.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1803.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1298.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-81" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1138.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1617.75" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1378.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1763.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1098.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-86" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1577.75" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-87" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1258.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1497.75" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-89" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1218.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1458.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-1537.75" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1058.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_starfall.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1723.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-100" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_socererking_arcanereplication.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-1714.746666666666" y="3070.0033333333336" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-2228.25" y="3110" width="26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2250.25" y="3152.75" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-103" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2063" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-104" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" vertex="1" parent="1">
+          <mxGeometry x="-2024" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+          <mxGeometry x="-1923.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+          <mxGeometry x="-1418.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
+          <mxGeometry x="-1683.25" y="3110" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+          <mxGeometry x="-1178.25" y="3110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-109" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2154.25" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-2154.25" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2144.35" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-2144.35" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-111" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2135.25" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-2135.25" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-112" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1912.85" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1912.85" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-113" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1902.9499999999998" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1902.9499999999998" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-114" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1893.85" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1893.85" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-115" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1407.85" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1407.85" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-116" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1397.9499999999998" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1397.9499999999998" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-117" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1388.85" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1388.85" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-118" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1167.83" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1167.83" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-119" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1157.9299999999998" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1157.9299999999998" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-120" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#bf7574;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1148.83" y="3118.75" as="sourcePoint" />
+            <mxPoint x="-1148.83" y="3110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-121" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1674.3799999999997" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1674.3799999999997" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-122" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1664.4799999999996" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1664.4799999999996" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-123" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1655.3799999999997" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1655.3799999999997" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-124" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1644.8199999999997" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1644.8199999999997" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-125" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1634.9199999999996" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1634.9199999999996" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-126" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1625.8199999999997" y="3119.25" as="sourcePoint" />
+            <mxPoint x="-1625.8199999999997" y="3110.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
+          <mxGeometry x="-2184.25" y="2914.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-129" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2174.25" y="2923" as="sourcePoint" />
+            <mxPoint x="-2174.25" y="2914.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-130" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2164.35" y="2923" as="sourcePoint" />
+            <mxPoint x="-2164.35" y="2914.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-131" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2155.25" y="2923" as="sourcePoint" />
+            <mxPoint x="-2155.25" y="2914.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3a2f3f;labelBackgroundColor=none;strokeColor=#8c789a;" vertex="1" parent="1">
+          <mxGeometry x="-990.25" y="3091.5" width="13" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" vertex="1" parent="1">
+          <mxGeometry x="-990.25" y="3120.25" width="13" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-139" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cast Time&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-966.25" y="3057" width="85" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-140" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Clip&amp;nbsp;Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-968.25" y="3084" width="104" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-141" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Fully Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-968.25" y="3112.75" width="110" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gHrPnbaPFVjsKqJHCbix-142" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" vertex="1" parent="1">
+          <mxGeometry x="-990.25" y="3064.5" width="13" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
