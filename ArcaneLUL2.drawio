@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T22:55:22.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="WzWHEMnKq-J-C6oh96Zh" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T23:25:10.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1XMnSrZWWUBiwN6KraFo" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
     <mxGraphModel dx="6299" dy="2432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-716" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-4143.75" y="224" width="728.75" height="97" as="geometry" />
-        </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-701" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-4185" y="1143" width="431" height="108" as="geometry" />
         </mxCell>
@@ -897,17 +894,11 @@
         <mxCell id="GKA1xVU4AbbS1rDs2ryt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#829AB0;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1820" y="213.25" width="11" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-271" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-271" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4234" y="66.49000000000001" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-272" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#829AB0;labelBackgroundColor=none;strokeColor=#314354;gradientColor=#7ea6e0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-4468" y="98.49000000000001" width="1434" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-273" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_magic_lesserinvisibilty.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-4467" y="99.24000000000001" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-274" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
-          <mxGeometry x="-4427" y="99.24000000000001" width="42" height="40" as="geometry" />
+          <mxGeometry x="-4385" y="98.49" width="1351" height="41" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-275" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_timewarp.jpg;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4280" y="182.24" width="40" height="40" as="geometry" />
@@ -917,48 +908,6 @@
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-277" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/trade_alchemy_dpotion_b20.jpg;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-4280" y="262.24" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-278" value="&lt;b&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Fire Opener T31&lt;br&gt;(Firestarter)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF8000;" parent="1" vertex="1">
-          <mxGeometry x="-4467" y="-55.75999999999999" width="262" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-279" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Prepull&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4389" y="43.24000000000001" width="65" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-280" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.031;exitY=0.586;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4391.015" y="59.233999999999924" as="sourcePoint" />
-            <mxPoint x="-4467" y="84.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-4467" y="59.25" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-281" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
-          <mxGeometry x="-3245" y="-47.25999999999999" width="13" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-282" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" parent="1" vertex="1">
-          <mxGeometry x="-3245" y="11.740000000000009" width="13" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-283" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;GCD&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3221" y="-54.75999999999999" width="49" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-284" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Cast Time&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3221" y="-24.75999999999999" width="85" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-285" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Fully Channel&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3223" y="4.240000000000009" width="110" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-286" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1e2a3c;labelBackgroundColor=none;strokeColor=#445875;gradientColor=#54739f;" parent="1" vertex="1">
-          <mxGeometry x="-3245" y="-17.25999999999999" width="13" height="14" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-287" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-4325" y="58.24000000000001" as="sourcePoint" />
-            <mxPoint x="-4259" y="83.23900000000003" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-4259" y="58.23900000000003" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-288" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg;" parent="1" vertex="1">
           <mxGeometry x="-4385" y="99.62000000000012" width="40" height="40" as="geometry" />
@@ -993,43 +942,43 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-298" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_ardenweald_mage.jpg;" parent="1" vertex="1">
           <mxGeometry x="-4010" y="99.37000000000012" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-562" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-299" target="N-IxhIxg8XYPEIAM8pvY-345" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-562" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0F0F;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-299" target="N-IxhIxg8XYPEIAM8pvY-345" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-299" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" parent="1" vertex="1">
           <mxGeometry x="-3970" y="99.62" width="65" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-303" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-303" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3961.1299999999997" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3961.1299999999997" y="100.12000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-304" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-304" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3951.2299999999996" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3951.2299999999996" y="100.12000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-305" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-305" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3942.1299999999997" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3942.1299999999997" y="100.12000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-306" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-306" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3931.5699999999997" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3931.5699999999997" y="100.12000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-307" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-307" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3921.6699999999996" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3921.6699999999996" y="100.12000000000012" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-308" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-308" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3912.5699999999997" y="108.87000000000012" as="sourcePoint" />
             <mxPoint x="-3912.5699999999997" y="100.12000000000012" as="targetPoint" />
@@ -1095,7 +1044,7 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-328" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
           <mxGeometry x="-3077" y="99.24000000000001" width="42" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-329" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.011;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-331" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-329" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.011;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FF0F0F;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-331" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3818" y="58.24000000000001" as="sourcePoint" />
             <mxPoint x="-4257" y="83.25" as="targetPoint" />
@@ -1104,7 +1053,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-330" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-331" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-330" value="" style="endArrow=none;html=1;rounded=0;fontColor=#FF0F0F;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-331" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3735" y="22.24000000000001" as="sourcePoint" />
             <mxPoint x="-3324" y="83.23900000000003" as="targetPoint" />
@@ -1113,13 +1062,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-331" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Firestarter&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-331" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Firestarter&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3875" y="43.24000000000001" width="87" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-332" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Combustion&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-332" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Combustion&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3226" y="43.24000000000001" width="100" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-333" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-332" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-333" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FF0F0F;" parent="1" source="N-IxhIxg8XYPEIAM8pvY-332" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3273" y="58.24000000000001" as="sourcePoint" />
             <mxPoint x="-3321" y="83.24000000000001" as="targetPoint" />
@@ -1128,7 +1077,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-334" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.448;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-334" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.448;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#FF0F0F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3126" y="57.23199999999997" as="sourcePoint" />
             <mxPoint x="-3035" y="82.24900000000002" as="targetPoint" />
@@ -1140,64 +1089,64 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-335" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball02.jpg;" parent="1" vertex="1">
           <mxGeometry x="-3324" y="99.62" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-336" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-336" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4154" y="66.49000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-337" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-337" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3878" y="65.99000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-338" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-338" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3712" y="65.99000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-339" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-339" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3631" y="65.12000000000012" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-340" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-340" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3465" y="66.49000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-341" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-341" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3381" y="65.99000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-342" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-342" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3178" y="65.12000000000012" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-343" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-343" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3092" y="65.99000000000001" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-344" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-344" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4214" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-345" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x4&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-345" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x4&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3858" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-346" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x5&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-346" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x5&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3691.5" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-347" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x6&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-347" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x6&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3610" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-348" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x7&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-348" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x7&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3445" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-349" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x8&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-349" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x8&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3361" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-350" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-350" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3156.5" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-351" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-351" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3071" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-352" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_rhyolith_immolation.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-352" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_rhyolith_immolation.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-3291" y="65.12" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-353" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-353" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4134" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-354" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-354" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_firestarter.jpg;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4069" y="66.12000000000012" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-355" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="N-IxhIxg8XYPEIAM8pvY-355" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;x3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#FF0F0F;" parent="1" vertex="1">
           <mxGeometry x="-4048" y="66.49000000000001" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-356" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball.jpg;" parent="1" vertex="1">
@@ -1976,30 +1925,6 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-436" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_fire_fireball.jpg;" parent="1" vertex="1">
           <mxGeometry x="-4091.5" y="1203" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-708" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_cloth_outdooremeralddream_d_01_buckle.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-4134" y="276.2166666666667" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-709" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Nymue&#39;s used after Shifting&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4094" y="281.72" width="203" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-710" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/achievement_dungeon_ulduarraid_misc_06.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-3780.003333333333" y="274.2266666666667" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-711" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Non-Balefire trinkets used with Combustion&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3729" y="279.73" width="310" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-712" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_staff_26.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-3779.996666666666" y="230.78333333333362" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-713" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Balefire used before SKB Cast&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3729" y="236.28000000000006" width="220" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-714" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_wand_1h_firelandsraid_d_01.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-4134.0042105263165" y="230.7847368421054" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-715" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Belor&#39;relos used after Prepull Phase&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-4094" y="236.28000000000006" width="258" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-717" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#829AB0;labelBackgroundColor=none;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-2330.75" y="-354.75" width="653.5" height="40" as="geometry" />
         </mxCell>
@@ -2548,10 +2473,7 @@
           <mxGeometry x="-891.71" y="3162" width="22.1" height="41.25" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-225" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#ffffff;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-1450" y="3466.5" width="573" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="gHrPnbaPFVjsKqJHCbix-226" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1451.0000000000005" y="3466.25" width="42" height="42" as="geometry" />
+          <mxGeometry x="-1371" y="3466.5" width="494" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-227" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_arcaneorb.jpg;" vertex="1" parent="1">
           <mxGeometry x="-1296.9300000000003" y="3466.25" width="40" height="40" as="geometry" />
