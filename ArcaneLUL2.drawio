@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T16:09:12.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mbw8clNQPfvGAxbHlX0E" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T16:27:13.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SP7UFtNhzBYxUddV3GJj" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
     <mxGraphModel dx="6141" dy="2432" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1366,7 +1366,7 @@
           <mxGeometry x="-3857" y="1302" width="13" height="14" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-453" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#829AB0;labelBackgroundColor=none;strokeColor=#314354;gradientColor=#54739f;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="396" y="-164.4999999999999" width="518" height="41" as="geometry" />
+          <mxGeometry x="396" y="-164.5" width="356" height="41" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-454" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#829AB0;labelBackgroundColor=none;strokeColor=#314354;gradientColor=#54739f;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="309" y="-402.9999999999999" width="520" height="41" as="geometry" />
@@ -1590,64 +1590,52 @@
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-528" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
           <mxGeometry x="520" y="-163.4999999999999" width="42" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-529" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostblast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="561" y="-163.4999999999999" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-530" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_frost_frostblast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="643" y="-163.4999999999999" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-531" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
-          <mxGeometry x="601" y="-163.4999999999999" width="42" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="N-IxhIxg8XYPEIAM8pvY-532" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
-          <mxGeometry x="683" y="-163.4999999999999" width="42" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-533" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_frost_frozenorb.jpg;" parent="1" vertex="1">
-          <mxGeometry x="725" y="-163.4999999999999" width="40" height="40" as="geometry" />
+          <mxGeometry x="563" y="-163.4999999999999" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-534" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1f2f1e;labelBackgroundColor=none;strokeColor=#3a5e28;gradientColor=#1f2f1e;" parent="1" vertex="1">
-          <mxGeometry x="765" y="-163.4999999999999" width="42" height="40" as="geometry" />
+          <mxGeometry x="603" y="-163.4999999999999" width="42" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-535" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_ardenweald_mage.jpg;" parent="1" vertex="1">
-          <mxGeometry x="808" y="-163.4999999999999" width="40" height="40" as="geometry" />
+          <mxGeometry x="646" y="-163.4999999999999" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-537" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1c2839;labelBackgroundColor=none;strokeColor=#4a6285;" parent="1" vertex="1">
-          <mxGeometry x="848" y="-163.25" width="65" height="40" as="geometry" />
+          <mxGeometry x="686" y="-163.25" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-540" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="856.8700000000003" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="856.8700000000003" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="694.8700000000003" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="694.8700000000003" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-541" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="866.7700000000004" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="866.7700000000004" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="704.7700000000004" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="704.7700000000004" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-542" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="875.8700000000003" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="875.8700000000003" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="713.8700000000003" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="713.8700000000003" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-543" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="886.4300000000003" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="886.4300000000003" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="724.4300000000003" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="724.4300000000003" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-544" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="896.3300000000004" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="896.3300000000004" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="734.3300000000004" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="734.3300000000004" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-545" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#3e5271;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="905.4300000000003" y="-153.9999999999999" as="sourcePoint" />
-            <mxPoint x="905.4300000000003" y="-162.7499999999999" as="targetPoint" />
+            <mxPoint x="743.4300000000003" y="-153.9999999999999" as="sourcePoint" />
+            <mxPoint x="743.4300000000003" y="-162.7499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-IxhIxg8XYPEIAM8pvY-546" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_frost_iceshard.jpg;" parent="1" vertex="1">
