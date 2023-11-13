@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T22:53:18.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rw-smlMJ6uyuiPWxM0zd" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T22:53:44.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DAhF2F8T26roJE4SQl-H" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
     <mxGraphModel dx="5995" dy="2258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2425,7 +2425,7 @@
           <mxGeometry x="-1758.34" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9d5CMkz-A1n_Burihls-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1718.34" y="2181.25" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1718.34" y="2183" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9d5CMkz-A1n_Burihls-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" vertex="1" parent="1">
           <mxGeometry x="-1590.04" y="2141.25" width="40" height="40" as="geometry" />
@@ -2437,7 +2437,7 @@
           <mxGeometry x="-1500.54" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9d5CMkz-A1n_Burihls-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/inv_misc_gem_sapphire_02.jpg;" vertex="1" parent="1">
-          <mxGeometry x="-1798.34" y="2181.25" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1799" y="2183" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m9d5CMkz-A1n_Burihls-8" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" vertex="1" parent="1">
           <mxGeometry x="-1758.34" y="2061" width="40" height="40" as="geometry" />
