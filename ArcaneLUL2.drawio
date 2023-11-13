@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T22:53:44.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DAhF2F8T26roJE4SQl-H" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T22:55:17.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jm4u14jpToJxCLd3Ryni" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
     <mxGraphModel dx="5995" dy="2258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2102,13 +2102,13 @@
           <mxGeometry x="514" y="-479.25" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cSVjWcMx2M_-HpkgwxTS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#ffffff;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-2220" y="2141.25" width="792" height="40" as="geometry" />
+          <mxGeometry x="-2141" y="2141.25" width="713" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cSVjWcMx2M_-HpkgwxTS-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-2221" y="2141" width="42" height="42" as="geometry" />
+          <mxGeometry x="-2150" y="2141" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="cSVjWcMx2M_-HpkgwxTS-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_arcaneorb.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-2144.25" y="2141.25" width="40" height="40" as="geometry" />
+          <mxGeometry x="-2074.5" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cSVjWcMx2M_-HpkgwxTS-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1994.5" y="2141.25" width="40" height="40" as="geometry" />
@@ -2118,9 +2118,6 @@
         </mxCell>
         <mxCell id="cSVjWcMx2M_-HpkgwxTS-57" value="&lt;b&gt;&lt;font data-darkreader-inline-color=&quot;&quot; color=&quot;#b36eb8&quot; style=&quot;font-size: 32px; --darkreader-inline-color: #b577ba;&quot;&gt;Arcane Burn&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2248.75" y="1986" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="cSVjWcMx2M_-HpkgwxTS-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-2067.75" y="2141.25" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#ffffff;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-1986" y="2429.5" width="564" height="40" as="geometry" />
