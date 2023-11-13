@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T22:55:17.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jm4u14jpToJxCLd3Ryni" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T23:00:45.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FHFQ70PeeaUsmP0wmLr8" version="22.1.0" type="github">
   <diagram name="Page-1" id="R8PL5Skke-RsDNBqAeRH">
-    <mxGraphModel dx="5995" dy="2258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5619" dy="2051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2120,49 +2120,49 @@
           <mxGeometry x="-2248.75" y="1986" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-150" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=#ffffff;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="-1986" y="2429.5" width="564" height="40" as="geometry" />
+          <mxGeometry x="-1986" y="2429.5" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-153" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1987" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-154" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_mage_nethertempest.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1626.25" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1916.75" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-156" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_arcanebarrage.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1521.51" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1846" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-157" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_mage_netherwindpresence.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1461.87" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1806" y="2469.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-158" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1838.5" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1764" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-159" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1562" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1547" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-160" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1912.5" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1507" y="2279" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-162" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" parent="1" vertex="1">
-          <mxGeometry x="-1837.75" y="2357" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1763.25" y="2357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-164" value="0" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;labelBorderColor=none;spacingTop=-8;" parent="1" vertex="1">
-          <mxGeometry x="-1911.25" y="2357" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1846" y="2357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-165" value="2" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" parent="1" vertex="1">
-          <mxGeometry x="-1769" y="2357" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1694.5" y="2357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-166" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1769" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1694.5" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-167" value="3" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" parent="1" vertex="1">
-          <mxGeometry x="-1692" y="2357" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1617.5" y="2357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-168" value="4" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" parent="1" vertex="1">
           <mxGeometry x="-1546" y="2357" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-169" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/spell_arcane_blast.jpg;" parent="1" vertex="1">
-          <mxGeometry x="-1691" y="2429.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1616.5" y="2429.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gHrPnbaPFVjsKqJHCbix-170" value="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wow.zamimg.com/images/wow/icons/large/ability_bastion_mage.jpg;labelPosition=center;align=center;fontColor=#FF5E5E;fontStyle=1;fontSize=29;spacing=0;spacingBottom=0;spacingTop=-8;" parent="1" vertex="1">
           <mxGeometry x="-1213.3" y="1442" width="40" height="40" as="geometry" />
